@@ -10,5 +10,6 @@ int num= 2;
         for(int i=1;i<=10;i++){
             System.out.printf("%d\tx\t%d\t=\t%d\n",num,i,num*i);
         }
+        System.out.println("Complete");
     }
 }
