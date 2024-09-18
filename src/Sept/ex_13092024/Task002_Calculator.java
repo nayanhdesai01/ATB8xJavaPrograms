@@ -10,10 +10,6 @@ public class Task002_Calculator {
     public static void main(String[] args){
         double a = 34;
         double b = 10;
-        double sum= a+b;
-        double sub=a-b;
-        double mul=a*b;
-
         System.out.println("Calculator...\n");
         System.out.printf("Sum of %f+%f= %f\n\n",a,b,a+b);
         System.out.printf("Difference of %f-%f= %f\n\n",a,b,a-b);
