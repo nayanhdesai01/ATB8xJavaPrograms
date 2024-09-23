@@ -1,6 +1,4 @@
-package Sept.ex_13092024;
-
-import java.time.Clock;
+package Sept.Tasks.ex_13092024;
 
 /**
  * Write a program to print the table of number which user will give( int num 10)

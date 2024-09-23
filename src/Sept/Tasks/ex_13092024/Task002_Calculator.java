@@ -1,4 +1,4 @@
-package Sept.ex_13092024;
+package Sept.Tasks.ex_13092024;
 
 /**
  * Prepare a small calculator, which supports +, - , , / and %(?) - Modulus operator
