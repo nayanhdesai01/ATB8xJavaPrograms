@@ -10,7 +10,7 @@ package Sept.Tasks.ex_21092024;
  */
 public class Task002_Grade {
     public static void main(String[] args) {
-    int score= 60;
+    int score= 85;
     char grade = 'F';
     if(score<=100 && score>=90) {
         grade = 'A';
