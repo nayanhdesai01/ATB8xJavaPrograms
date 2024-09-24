@@ -5,9 +5,9 @@ public class Task004_d_type {
     public static void main(String[] args) {
         short s = 10;
 
-        char c = 'A'; //65
+        char ch = 'A'; //65
 
-        int ss = s+c;
+        int ss = s+ch;
 
         System.out.println(ss);
 // Output is 75

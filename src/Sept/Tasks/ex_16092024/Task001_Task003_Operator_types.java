@@ -3,7 +3,7 @@ package Sept.Tasks.ex_16092024;
 
 public class Task001_Task003_Operator_types {
     public static void main(String[] args) {
-        int a = 10;
+        int a = 30;
         int b = 20;
 
         System.out.println("= is used to assign a value to a variable");
