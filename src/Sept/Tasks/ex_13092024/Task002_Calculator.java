@@ -9,7 +9,7 @@ package Sept.Tasks.ex_13092024;
 public class Task002_Calculator {
     public static void main(String[] args){
         double a = 34;
-        double b = 10;
+        double b = 30;
         System.out.println("Calculator...\n");
         System.out.printf("Sum of %f+%f= %f\n\n",a,b,a+b);
         System.out.printf("Difference of %f-%f= %f\n\n",a,b,a-b);
