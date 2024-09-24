@@ -1,7 +1,7 @@
 package Sept.Tasks.ex_16092024;
 //Difference between = and  ==?
 
-public class Operator_types {
+public class Task001_Task003_Operator_types {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
