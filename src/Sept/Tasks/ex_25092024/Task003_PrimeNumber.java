@@ -1,5 +1,6 @@
 package Sept.Tasks.ex_25092024;
 //Prime Number from 1 to 100. (for loop)
+//A prime number is a number that can only be divided by itself and 1 without remainders
 
 import java.util.Scanner;
 
