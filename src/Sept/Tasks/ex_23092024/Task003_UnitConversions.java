@@ -19,7 +19,7 @@ public class Task003_UnitConversions {
                 "4: Fahrenheit to Celsius\n");
         System.out.print("Please enter your choice: ");
         int choice = sc.nextInt();
-        int km=0;
+        double km=0;
         double mil=0;
         double cel=0;
         double fh=0;
@@ -36,7 +36,7 @@ public class Task003_UnitConversions {
                 System.out.println("Miles to Kilometer conversion");
                 System.out.println("Enter distance in Miles: ");
                 mil = sc.nextDouble();
-                km= (int) (mil*1.60934); //Km=miles*1.60934
+                km= (mil*1.60934); //Km=miles*1.60934
                 System.out.println(mil+" miles = "+km+" Km");
                 break;
             case 3:
