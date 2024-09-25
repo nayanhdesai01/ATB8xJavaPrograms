@@ -9,7 +9,7 @@ public class Task003_PrimeNumber {
         int i,j,count;
         System.out.println("Prime numbers between 1 to 100");
         for (i=2;i<=100;i++){
-            count=0;
+            count=0;  //to count the number is divisible only by 1 and itself
             for(j=i;j>=1;j--) {
                 if (i % j == 0) {
                     count = count + 1;

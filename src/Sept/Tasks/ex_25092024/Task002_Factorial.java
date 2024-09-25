@@ -19,10 +19,10 @@ public class Task002_Factorial {
         }
         System.out.print("Factorial of "+num+ ": "+fact);
     }
-       else if(num<1){
+       else if(num<1){  //validation for -ve numbers
            System.out.println("Negative number not allowed");
        }
-       else
+       else //validation for 0
        {
            System.out.println("Invalid");
        }
