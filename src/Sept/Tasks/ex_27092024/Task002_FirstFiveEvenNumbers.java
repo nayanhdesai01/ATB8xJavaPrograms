@@ -4,12 +4,15 @@ package Sept.Tasks.ex_27092024;
 public class Task002_FirstFiveEvenNumbers {
     public static void main(String[] args) {
         int num =1;
+        int count = 1;
 do {
     if (num%2==0) {
         System.out.println(num);
+        count++;
     }
     num++;
-} while (num<=10);
+} while (count<=5);
+
 
     }
 }
