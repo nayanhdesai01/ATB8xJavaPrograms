@@ -1,4 +1,4 @@
-package Oct.ex_02102024;
+package Oct.Tasks.ex_02102024;
 //Write 5 points related to the Class and Objects.
 
 public class Task001_ClsObj {

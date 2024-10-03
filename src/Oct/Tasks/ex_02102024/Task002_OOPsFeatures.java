@@ -1,4 +1,4 @@
-package Oct.ex_02102024;
+package Oct.Tasks.ex_02102024;
 //OOPs and Features.
 
 public class Task002_OOPsFeatures {

@@ -1,4 +1,4 @@
-package Oct.ex_02102024;
+package Oct.Tasks.ex_02102024;
 // Create a Class  ATBStudent and 5 Objects - (A/B) - github.com
 
 public class Task003_ATBStudent {
