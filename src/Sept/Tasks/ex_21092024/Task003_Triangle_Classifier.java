@@ -14,15 +14,17 @@ public class Task003_Triangle_Classifier {
         int s1 = 10;
         int s2 = 20;
         int s3 = 30;
-
-        if(s1==s2 && s2==s3) {
-            System.out.println("Equilateral Triangle");
-        }
-        else if(s1==s2||s1==s3||s2==s3){
-            System.out.println("Isosceles Triangle");
+        if (s1>0 && s2>0 && s3>0) {
+            if (s1 == s2 && s2 == s3) {
+                System.out.println("Equilateral Triangle");
+            } else if (s1 == s2 || s1 == s3 || s2 == s3) {
+                System.out.println("Isosceles Triangle");
+            } else {
+                System.out.println("Scalene Triangle");
             }
-        else{
-            System.out.println("Scalene Triangle");
+        }
+            else {
+            System.out.println("Negative Input");
         }
 
     }
