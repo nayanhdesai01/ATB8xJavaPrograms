@@ -15,6 +15,7 @@ public class Task_Const_Main {
         System.out.println("Age: "+P2.person_age);
         System.out.println("Gender: "+P2.person_gender);
         System.out.println("Marital status: "+P2.person_maritalStatus);
+        P2.sleep();
 
         Person P3 = new Person("Anil","Pune","India",25,'M',"Unmarried");
         System.out.println("Name: "+P3.person_name);
@@ -23,6 +24,7 @@ public class Task_Const_Main {
         System.out.println("Age: "+P3.person_age);
         System.out.println("Gender: "+P3.person_gender);
         System.out.println("Marital status: "+P3.person_maritalStatus);
+        P3.sleep();
 
         Person P4 = new Person();
         P4.setPerson_occupation();
@@ -33,7 +35,7 @@ public class Task_Const_Main {
         System.out.println("ID Proof: "+idProof);
         String idNumber =  P5.setPerson_idNumber();
         System.out.println("ID number: "+idNumber);
-
+        P5.sleep();
 
     }
 }

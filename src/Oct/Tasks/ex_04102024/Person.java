@@ -58,7 +58,8 @@ public class Person {
 
     }
 
-    void Sleep(){
+    void sleep(){
         System.out.println("I am sleeping");
+        System.out.println("Don't wake me");
     }
 }
