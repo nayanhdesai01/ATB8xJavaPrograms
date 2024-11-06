@@ -1,7 +1,5 @@
 package Oct.Tasks.ex_11102024;
 
-import Oct.Practice.Class11102024.superkeyword.BaseClass;
-
 /**
  * Create a Runner - APIAutomation (HTTP Method)
  * method - string, name, id (int)
